@@ -1,0 +1,26 @@
+{
+  "name": "telegramweatherbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://AcidSore@github.com/AcidSore/TelegramWeatherBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AcidSore/TelegramWeatherBot/issues"
+  },
+  "homepage": "https://github.com/AcidSore/TelegramWeatherBot#readme",
+  "dependencies": {
+    "node-emoji": "^1.10.0",
+    "node-telegram-bot-api": "^0.50.0",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6",
+    "winston": "^3.3.3"
+  }
+}
